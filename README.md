@@ -1,4 +1,4 @@
-# Typescript template project
+# Yet Another Typescript Template
 
 This project is meant to be used as a template. 
 
