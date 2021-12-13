@@ -17,6 +17,17 @@ Install dependencies:
 npm i
 ```
 
+Development (watch mode):
+```
+npm run dev
+```
+
+Build and run:
+```
+npm run build
+npm start
+```
+
 ### Tests
 
 Test are run with [ava](https://github.com/avajs/ava/)
