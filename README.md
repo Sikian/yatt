@@ -34,7 +34,7 @@ Test are run with [ava](https://github.com/avajs/ava/)
 
 Run tests:
 ```
-npm run tests
+npm run test
 ```
 
 Tests can be added in the `tests/` folder. This is not mandatory and if you like another arrangement better, go ahead!
